@@ -2,6 +2,9 @@
 
 Design Pattern을 학습하기 위해 [Head First Design Patters](https://m.yes24.com/Goods/Detail/108192370)를 읽고 배운 내용을 기록하는 저장소입니다.
 <br />
+- 시작: 2024.3.11
+- 기간 산정: 14주 -> 각 패턴 1주 씩
+- 목표 종료일: 2024.6.10
 
 ### 목차
 
